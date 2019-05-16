@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="enter_number">Enter number</string>
+    <string name="TextView">text</string>
+    <string name="convertButton">Convert</string>
+    <string name="switchCurrencies">GBP/PLN</string>
+    <string name="zloty">PLN</string>
+    <string name="pound">GPB</string>
+</resources>
